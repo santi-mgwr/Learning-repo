@@ -5,4 +5,4 @@
 cat >> text.txt
 
 : 'this is a 2 
-line text'
+line text comentary'
